@@ -21,7 +21,7 @@ from openpyxl.styles import Alignment, Font
 
 # =========================== CONFIGURAÇÃO ===========================
 CNPJ_ALVO = "02.474.103/0001-19"
-NOME_SAIDA = "demonstracoes_engie.xlsx"
+NOME_SAIDA = "planilhas/demonstracoes_engie.xlsx"
 ANOS_ANUAIS = 5
 ANO_INICIAL_ITR = datetime.now().year  # exercício corrente por padrão
 MAX_TENTATIVAS = 4
