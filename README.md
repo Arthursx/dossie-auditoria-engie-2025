@@ -1,6 +1,6 @@
 # Dossiê de auditoria — ENGIE Brasil Energia S.A. (exercício 2025)
 
-**Matrícula:** `[PREENCHER]` · **Trabalho individual** · **Entrega:** 25/10/2026
+**Matrícula:** `222024004` · **Trabalho individual** · **Entrega:** 25/10/2026
 
 > Trabalho acadêmico. Não é auditoria real nem opinião profissional. Não houve contato com a companhia, auditor, clientes ou fornecedores. A base de 500.000 registros é **SINTÉTICA**: o saldo de referência vem das demonstrações públicas, mas os registros, atributos e erros são fictícios.
 
@@ -35,13 +35,3 @@ A geração da base cria 500.000 registros e concilia o valor contábil líquido
 
 Cada procedimento está identificado como realizado com evidência pública, planejado por falta de acesso ou simulado para fins didáticos. Confirmações, entrevistas, inspeções físicas e acessos a sistemas não foram realizados.
 
-## Referência estrutural
-
-A organização de pastas segue o modelo público indicado pelo aluno: https://github.com/JVContaifer/p2-auditoria-211014396. O conteúdo factual e as fontes deste repositório são específicos da ENGIE.
-
-## Pendências antes da entrega
-
-- Preencher matrícula, nome e datas de acesso.
-- Registrar as versões das NBC TA conforme a fonte normativa usada na disciplina.
-- Conferir todos os links e páginas.
-- Publicar o repositório e testar o acesso em janela anônima.
