@@ -1,0 +1,5 @@
+id_ativo;linha_zero_based;tipo_erro;campo;valor_original;valor_inserido;procedimento_que_deve_identificar
+BEM-SINT-0000101;100;vida útil inválida;vida_util_anos;22;0;teste de estimativa/depreciação
+BEM-SINT-0000201;200;data anterior à aquisição;data_entrada_operacao;2024-11-26;1980-01-01;teste de datas
+BEM-SINT-0000300;300;ID duplicado;id_ativo;BEM-SINT-0000301;BEM-SINT-0000300;teste de unicidade
+BEM-SINT-0000401;400;domínio inválido;indicador_impairment;N;X;teste de domínio

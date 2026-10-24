@@ -1,0 +1,16 @@
+{
+  "natureza_dos_dados": "SINTETICOS - NAO SAO REGISTROS REAIS DA ENGIE",
+  "companhia_de_referencia": "ENGIE Brasil Energia S.A.",
+  "cnpj": "02.474.103/0001-19",
+  "data_base": "2025-12-31",
+  "conta": "Imobilizado consolidado",
+  "saldo_contabil_r_mil": "28567889.000000",
+  "quantidade_registros": 500000,
+  "semente": 20251001,
+  "fonte": "https://www.engie.com.br/wp-content/uploads/2026/02/DF-EBE-31.12.2025-vs_06_03-reap.pdf",
+  "referencia_fonte": "Balanço consolidado p. 65 e Nota 10 - Imobilizado p. 107",
+  "arquivo_base_sha256": "8f0e1c5d872c943b0b1375a759a91c96ae17f7df498d434b98c11d2b21dc87cd",
+  "erros_didaticos_inseridos": 4
+}
+
+A população é sintética, com 500.000 bens individuais, e foi escalada para conciliar o valor contábil líquido ao saldo consolidado de R$ 28.567.889 mil em 31/12/2025. Os erros são didáticos e não são constatações sobre a ENGIE.

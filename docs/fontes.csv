@@ -1,0 +1,6 @@
+codigo;url;documento;data_acesso;exercicio;paginas;uso
+F-001;https://www.engie.com.br/wp-content/uploads/2026/02/DF-EBE-31.12.2025-vs_06_03-reap.pdf;Relatório da Administração e DFs;[PREENCHER];2025/2024;1-203;demonstrações/notas/auditoria
+F-002;https://www.engie.com.br/wp-content/uploads/2025/01/Formulario-Cadastral-EBE-2025.pdf;Formulário Cadastral;[PREENCHER];2025;1-6;identificação/auditor
+F-003;https://dados.cvm.gov.br/dataset/cia_aberta-doc-dfp;Dados Abertos DFP;[PREENCHER];2021-2025;arquivos CSV;dados estruturados
+F-004;https://dados.cvm.gov.br/dataset/cia_aberta-doc-itr;Dados Abertos ITR;[PREENCHER];corrente;arquivos CSV;ITR
+F-005;https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/17329/CODBOLSA/overview?language=pt-br;Cadastro B3;[PREENCHER];2025;web;CNPJ/código

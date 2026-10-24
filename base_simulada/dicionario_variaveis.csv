@@ -1,0 +1,17 @@
+variavel;descricao;tipo;monetaria
+id_ativo;Identificador sintético único, salvo erro didático documentado.;texto;Não
+status_base;Marcador de que a linha pertence à população sintética.;texto;Não
+empresa_sintetica;Entidade fictícia para separar os dados sintéticos de dados reais.;texto;Não
+unidade_operacional_sintetica;Unidade operacional fictícia.;texto;Não
+classe_ativo;Classe sintética do bem do imobilizado.;texto;Não
+descricao_sintetica;"Descrição gerada para o bem; não representa cadastro real.";texto;Não
+data_aquisicao;Data sintética de aquisição do bem.;data;Não
+data_entrada_operacao;Data sintética de entrada em operação.;data;Não
+valor_original_mil;Custo original sintético, em milhares de reais.;decimal R$ mil;Sim
+valor_residual_mil;Valor residual sintético, em milhares de reais.;decimal R$ mil;Sim
+vida_util_anos;Vida útil econômica sintética em anos.;inteiro;Não
+depreciacao_acumulada_mil;Depreciação acumulada sintética, em milhares de reais.;decimal R$ mil;Sim
+depreciacao_ano_2025_mil;Despesa de depreciação sintética de 2025, em milhares de reais.;decimal R$ mil;Sim
+valor_contabil_liquido_mil;Valor contábil líquido sintético, em milhares de reais.;decimal R$ mil;Sim
+indicador_impairment;Indicador sintético para testes de impairment.;S/N;Não
+localizacao_sintetica;Localização fictícia do bem.;texto;Não
